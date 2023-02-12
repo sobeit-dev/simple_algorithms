@@ -28,18 +28,6 @@
 
 ## Программный расчёт
 
-```С++
-Iterations:
-0.000000        6.000000        infinity        5.000000        infinity        infinity        infinity        infinity        infinity        infinity
-0.000000        6.000000        infinity        5.000000        infinity        6.000000        infinity        8.000000        infinity        infinity
-0.000000        6.000000        infinity        5.000000        infinity        6.000000        infinity        8.000000        infinity        infinity
-0.000000        6.000000        7.000000        5.000000        infinity        6.000000        infinity        8.000000        infinity        infinity
-0.000000        6.000000        7.000000        5.000000        14.000000       6.000000        10.000000       8.000000        infinity        infinity
-0.000000        6.000000        7.000000        5.000000        14.000000       6.000000        10.000000       8.000000        15.000000       infinity
-0.000000        6.000000        7.000000        5.000000        14.000000       6.000000        10.000000       8.000000        13.000000       13.000000
-
-Minimum cost: 13.000000
-Minimum path: 1 2 3 7 10
-```
+![Программный расчёт]( [https://beeimg.com/images/k24088174054.png](https://beeimg.com/images/s27383604021.png) "Программный расчёт")
 
 Таким образом ручной и программный расчет сошлись.
