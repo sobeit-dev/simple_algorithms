@@ -19,16 +19,4 @@ namespace data
             {inf,   inf,    inf,    inf,    inf,    inf,    inf,    inf,    inf,    0  }
         }
     };
-
-    // const std::array<std::array<const float_t, NumPoints>, NumPoints> DistanceMatrix
-    // {
-    //     {
-    //        {0,     4,      3,      7,      inf,    inf},
-    //        {inf,   0,      inf,    3,      2,      inf},
-    //        {inf,   inf,    0,      inf,    3,      inf},
-    //        {inf,   inf,    inf,    0,      inf,    2  },
-    //        {inf,   inf,    inf,    inf,    0,      2  },
-    //        {inf,   inf,    inf,    inf,    inf,    0  },
-    //     }
-    // };
 }
